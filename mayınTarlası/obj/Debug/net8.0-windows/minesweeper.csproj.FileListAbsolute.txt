@@ -1,0 +1,113 @@
+C:\Users\Lenovo\Desktop\minesweeper\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\minesweeper\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\minesweeper\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\minesweeper\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\minesweeper\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\ref\minesweeper.dll
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\minesweeper\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayınClass\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\mayınClass\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\mayınClass\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\mayınClass\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınClass\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\ref\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınClass\obj\Debug\net8.0-windows\minesweeper.SkorboardForm.resources
+C:\Users\Lenovo\Desktop\mayın en son\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\mayın en son\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\mayın en son\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\mayın en son\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayın en son\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.SkorboardForm.resources
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\mayın en son\obj\Debug\net8.0-windows\ref\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.SkorboardForm.resources
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\mayınTarlası\obj\Debug\net8.0-windows\ref\minesweeper.dll
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.SkorboardForm.resources
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\ref\minesweeper.dll
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.exe
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.deps.json
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\bin\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form1.resources
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Form2.resources
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.SkorboardForm.resources
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.dll
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\refint\minesweeper.dll
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.pdb
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\minesweeper.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GİTHUB\220229012_ERSİN_GÜNERİGÖK\mayınTarlası\obj\Debug\net8.0-windows\ref\minesweeper.dll
